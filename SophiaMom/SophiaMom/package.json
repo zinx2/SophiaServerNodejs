@@ -1,0 +1,9 @@
+{
+  "name": "sophia-mom",
+  "version": "0.0.0",
+  "description": "SophiaMom",
+  "main": "server.js",
+  "author": {
+    "name": "JHKim"
+  }
+}

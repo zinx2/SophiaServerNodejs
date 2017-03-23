@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "SophiaMom", "SophiaMom\SophiaMom.njsproj", "{DD91F769-D78E-4366-9BF6-F0C01B930A3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD91F769-D78E-4366-9BF6-F0C01B930A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD91F769-D78E-4366-9BF6-F0C01B930A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD91F769-D78E-4366-9BF6-F0C01B930A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD91F769-D78E-4366-9BF6-F0C01B930A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
